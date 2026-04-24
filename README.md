@@ -16,7 +16,8 @@ Backend Engineer focused on building financial systems and scalable backend plat
 - Former Engineer @ Union Bank, SEAMFIX
 
 ## 📄 CV
-[View My CV](./cv/README.md) 
+- [View CV](https://github.com/michael-ikpefua/cv/blob/main/Michael_Ikpefua_CV_2026.pdf)
+- [Download CV](https://raw.githubusercontent.com/michael-ikpefua/cv/main/Michael_Ikpefua_CV_2026.pdf)
 
 ## 📫 Reach Me
 - Email: ikpefuamichael@gmail.com
